@@ -2,7 +2,7 @@
 
 I'm a creative technologist and audio software developer based in Berlin 📍
 
-I build reliable, playful tools for sound, music, and interaction — from Max/MSP instruments and web apps to custom prototypes and creative systems ✨
+I build reliable, playful tools for sound, music, and interaction, from Max/MSP instruments and web apps to custom prototypes and creative systems ✨
 
 ## What I do
 
