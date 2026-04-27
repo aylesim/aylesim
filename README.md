@@ -8,7 +8,7 @@ I build tools, instruments, and interactive systems where sound, code, and physi
 
 - Design and develop interactive audio tools and digital instruments
 - Build Max/MSP patches and Max for Live devices
-- Prototype creative technology projects with web, Python, C++, Arduino, and AI workflows
+- Prototype creative technology projects with web, Python, Arduino, and AI workflows
 - Create installations and systems for performances, workshops, and research contexts
 
 ## Current focus
@@ -24,18 +24,6 @@ I build tools, instruments, and interactive systems where sound, code, and physi
 - Researcher at La Scuola Open Source
 - Experience across interactive installations, audio systems, frontend development, and AI-supported workflows
 - Publishing work as **Aylesim**
-
-## Tools and technologies
-
-`Max/MSP` `Max for Live` `Ableton Live` `JavaScript` `Python` `Arduino` `HTML` `CSS` `GitHub` `AI tools`
-
-## Projects
-
-### Birds
-A creative sequencing project focused on musical exploration, playful interaction, and expressive composition.
-
-### Glossia
-A web-based project deployed on Vercel and developed as part of an ongoing practice combining design, code, and experimentation.
 
 ## Interests
 
